@@ -1,0 +1,2 @@
+# Graduation-Project-Detection-of-Plant-Leaves-Diseases
+The project consists of an android application that is used by the house gardeners and anyone who owns a plant in their houses to take a picture of a plant or choose a picture from their mobile. Moreover, the application screens the image to detect a disease based on the disease symptoms by processing it in an image processing system and predict the type of disease and displays the result to the user.
